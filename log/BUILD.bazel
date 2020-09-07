@@ -1,0 +1,5 @@
+alias(
+    name = "log",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_log//:log",
+)

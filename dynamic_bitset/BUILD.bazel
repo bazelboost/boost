@@ -1,0 +1,5 @@
+alias(
+    name = "dynamic_bitset",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_dynamic_bitset//:dynamic_bitset",
+)

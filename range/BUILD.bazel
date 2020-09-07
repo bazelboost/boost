@@ -1,0 +1,5 @@
+alias(
+    name = "range",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_range//:range",
+)

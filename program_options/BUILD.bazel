@@ -1,0 +1,5 @@
+alias(
+    name = "program_options",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_program_options//:program_options",
+)

@@ -1,0 +1,5 @@
+alias(
+    name = "config",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_config//:config",
+)

@@ -1,0 +1,5 @@
+alias(
+    name = "integer",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_integer//:integer",
+)

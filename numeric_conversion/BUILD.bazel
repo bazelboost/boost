@@ -1,0 +1,5 @@
+alias(
+    name = "numeric_conversion",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_numeric_conversion//:numeric_conversion",
+)

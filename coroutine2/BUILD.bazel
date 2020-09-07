@@ -1,0 +1,5 @@
+alias(
+    name = "coroutine2",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_coroutine2//:coroutine2",
+)

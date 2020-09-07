@@ -1,0 +1,5 @@
+alias(
+    name = "property_tree",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_property_tree//:property_tree",
+)

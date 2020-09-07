@@ -1,0 +1,5 @@
+alias(
+    name = "container_hash",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_container_hash//:container_hash",
+)

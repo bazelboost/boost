@@ -1,0 +1,5 @@
+alias(
+    name = "predef",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_predef//:predef",
+)

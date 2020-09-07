@@ -1,0 +1,5 @@
+alias(
+    name = "property_map",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_property_map//:property_map",
+)

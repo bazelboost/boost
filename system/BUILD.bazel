@@ -1,0 +1,5 @@
+alias(
+    name = "system",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_system//:system",
+)

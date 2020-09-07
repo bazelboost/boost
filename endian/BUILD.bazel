@@ -1,0 +1,5 @@
+alias(
+    name = "endian",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_endian//:endian",
+)

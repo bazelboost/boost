@@ -1,0 +1,5 @@
+alias(
+    name = "tokenizer",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_tokenizer//:tokenizer",
+)

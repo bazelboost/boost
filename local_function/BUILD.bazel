@@ -1,0 +1,5 @@
+alias(
+    name = "local_function",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_local_function//:local_function",
+)

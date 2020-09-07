@@ -1,0 +1,5 @@
+alias(
+    name = "multi_array",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_multi_array//:multi_array",
+)

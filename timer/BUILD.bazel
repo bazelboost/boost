@@ -1,0 +1,5 @@
+alias(
+    name = "timer",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_timer//:timer",
+)

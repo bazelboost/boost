@@ -1,0 +1,5 @@
+alias(
+    name = "lexical_cast",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_lexical_cast//:lexical_cast",
+)

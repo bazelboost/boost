@@ -1,0 +1,5 @@
+alias(
+    name = "metaparse",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_metaparse//:metaparse",
+)

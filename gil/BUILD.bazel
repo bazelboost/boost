@@ -1,0 +1,5 @@
+alias(
+    name = "gil",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_gil//:gil",
+)

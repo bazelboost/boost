@@ -1,0 +1,5 @@
+alias(
+    name = "locale",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_locale//:locale",
+)

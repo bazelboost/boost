@@ -1,0 +1,5 @@
+alias(
+    name = "assign",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_assign//:assign",
+)

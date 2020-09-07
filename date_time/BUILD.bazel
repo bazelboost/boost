@@ -1,0 +1,5 @@
+alias(
+    name = "date_time",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_date_time//:date_time",
+)

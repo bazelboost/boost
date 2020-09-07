@@ -1,0 +1,5 @@
+alias(
+    name = "graph_parallel",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_graph_parallel//:graph_parallel",
+)

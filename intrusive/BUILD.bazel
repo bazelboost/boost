@@ -1,0 +1,5 @@
+alias(
+    name = "intrusive",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_intrusive//:intrusive",
+)

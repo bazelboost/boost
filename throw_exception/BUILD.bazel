@@ -1,0 +1,5 @@
+alias(
+    name = "throw_exception",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_throw_exception//:throw_exception",
+)

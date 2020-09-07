@@ -1,0 +1,5 @@
+alias(
+    name = "move",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_move//:move",
+)

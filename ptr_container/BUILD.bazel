@@ -1,0 +1,5 @@
+alias(
+    name = "ptr_container",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_ptr_container//:ptr_container",
+)

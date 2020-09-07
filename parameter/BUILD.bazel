@@ -1,0 +1,5 @@
+alias(
+    name = "parameter",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_parameter//:parameter",
+)

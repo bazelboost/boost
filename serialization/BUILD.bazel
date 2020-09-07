@@ -1,0 +1,5 @@
+alias(
+    name = "serialization",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_serialization//:serialization",
+)

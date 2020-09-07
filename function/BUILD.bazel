@@ -1,0 +1,5 @@
+alias(
+    name = "function",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_function//:function",
+)

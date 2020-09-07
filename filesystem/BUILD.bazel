@@ -1,0 +1,5 @@
+alias(
+    name = "filesystem",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_filesystem//:filesystem",
+)

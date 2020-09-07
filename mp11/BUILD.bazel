@@ -1,0 +1,5 @@
+alias(
+    name = "mp11",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_mp11//:mp11",
+)

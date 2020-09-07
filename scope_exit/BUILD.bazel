@@ -1,0 +1,5 @@
+alias(
+    name = "scope_exit",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_scope_exit//:scope_exit",
+)

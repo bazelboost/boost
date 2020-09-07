@@ -1,0 +1,5 @@
+alias(
+    name = "flyweight",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_flyweight//:flyweight",
+)

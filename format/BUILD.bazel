@@ -1,0 +1,5 @@
+alias(
+    name = "format",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_format//:format",
+)

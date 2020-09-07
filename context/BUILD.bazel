@@ -1,0 +1,5 @@
+alias(
+    name = "context",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_context//:context",
+)

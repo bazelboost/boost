@@ -1,0 +1,5 @@
+alias(
+    name = "poly_collection",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_poly_collection//:poly_collection",
+)

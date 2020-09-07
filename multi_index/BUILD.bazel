@@ -1,0 +1,5 @@
+alias(
+    name = "multi_index",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_multi_index//:multi_index",
+)

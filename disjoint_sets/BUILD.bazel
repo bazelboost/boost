@@ -1,0 +1,5 @@
+alias(
+    name = "disjoint_sets",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_disjoint_sets//:disjoint_sets",
+)

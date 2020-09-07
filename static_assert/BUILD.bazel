@@ -1,0 +1,5 @@
+alias(
+    name = "static_assert",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_static_assert//:static_assert",
+)

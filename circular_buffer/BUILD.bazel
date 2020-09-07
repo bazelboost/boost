@@ -1,0 +1,5 @@
+alias(
+    name = "circular_buffer",
+    visibility = ["//visibility:public"],
+    actual = "@com_github_bazelboost_circular_buffer//:circular_buffer",
+)
