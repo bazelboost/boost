@@ -28,7 +28,7 @@ WORK IN PROGRESS - This is experimental and may not work correctly. Contribution
 | [context](https://github.com/bazelboost/context) | | | | ![context module CI status badge](https://github.com/bazelboost/context/actions/workflows/main.yml/badge.svg) |
 | [conversion](https://github.com/bazelboost/conversion) | | | | ![conversion module CI status badge](https://github.com/bazelboost/conversion/actions/workflows/main.yml/badge.svg) |
 | [convert](https://github.com/bazelboost/convert) | | | | ![convert module CI status badge](https://github.com/bazelboost/convert/actions/workflows/main.yml/badge.svg) |
-| [core](https://github.com/bazelboost/core) | | | | ![core module CI status badge](https://github.com/bazelboost/core/actions/workflows/main.yml/badge.svg) |
+| [core](https://github.com/bazelboost/core) | ✔️ | ❌ | N/A | ![core module CI status badge](https://github.com/bazelboost/core/actions/workflows/main.yml/badge.svg) |
 | [coroutine](https://github.com/bazelboost/coroutine) | | | | ![coroutine module CI status badge](https://github.com/bazelboost/coroutine/actions/workflows/main.yml/badge.svg) |
 | [coroutine2](https://github.com/bazelboost/coroutine2) | | | | ![coroutine2 module CI status badge](https://github.com/bazelboost/coroutine2/actions/workflows/main.yml/badge.svg) |
 | [crc](https://github.com/bazelboost/crc) | | | | ![crc module CI status badge](https://github.com/bazelboost/crc/actions/workflows/main.yml/badge.svg) |
