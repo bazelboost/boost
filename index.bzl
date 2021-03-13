@@ -390,7 +390,7 @@ def boost_git_repositories(branch):
         if _missing_boost_lib(lib_name):
             git_repository(
                 name = "com_github_bazelboost_{}".format(lib_name),
-                remote = "git@github.com:bazelboost/{}.git".format(lib_name),
+                remote = "https://github.com/bazelboost/{}".format(lib_name),
                 branch = branch,
             )
 
