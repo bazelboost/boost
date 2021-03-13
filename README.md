@@ -15,7 +15,6 @@ git_repository(
     remote = "git@github.com:bazelboost/boost.git",
 )
 
-load("@boost//:index.bzl", "boost_repositories")
-
-boost_repositories()
+load("@boost//:index.bzl", "boost_git_repositories")
+boost_git_repositories(branch = "develop")
 ```
