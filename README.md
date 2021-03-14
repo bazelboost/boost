@@ -7,7 +7,7 @@ WORK IN PROGRESS - This is experimental and may not work correctly. Contribution
 | Module | BUILD files | Tests | Examples | CI |
 |:------ |:-----------:|:-----:|:--------:|:--:|
 | [accumulators](https://github.com/bazelboost/accumulators) | | | | ![accumulators module CI status badge](https://github.com/bazelboost/accumulators/actions/workflows/main.yml/badge.svg) |
-| [algorithm](https://github.com/bazelboost/algorithm) | | | | ![algorithm module CI status badge](https://github.com/bazelboost/algorithm/actions/workflows/main.yml/badge.svg) |
+| [algorithm](https://github.com/bazelboost/algorithm) | ✔️ | ❌ | ✔️ | ![algorithm module CI status badge](https://github.com/bazelboost/algorithm/actions/workflows/main.yml/badge.svg) |
 | [align](https://github.com/bazelboost/align) | | | | ![align module CI status badge](https://github.com/bazelboost/align/actions/workflows/main.yml/badge.svg) |
 | [any](https://github.com/bazelboost/any) | | | | ![any module CI status badge](https://github.com/bazelboost/any/actions/workflows/main.yml/badge.svg) |
 | [array](https://github.com/bazelboost/array) | | | | ![array module CI status badge](https://github.com/bazelboost/array/actions/workflows/main.yml/badge.svg) |
@@ -46,7 +46,7 @@ WORK IN PROGRESS - This is experimental and may not work correctly. Contribution
 | [format](https://github.com/bazelboost/format) | | | | ![format module CI status badge](https://github.com/bazelboost/format/actions/workflows/main.yml/badge.svg) |
 | [function](https://github.com/bazelboost/function) | | | | ![function module CI status badge](https://github.com/bazelboost/function/actions/workflows/main.yml/badge.svg) |
 | [function_types](https://github.com/bazelboost/function_types) | | | | ![function_types module CI status badge](https://github.com/bazelboost/function_types/actions/workflows/main.yml/badge.svg) |
-| [functional](https://github.com/bazelboost/functional) | | | | ![functional module CI status badge](https://github.com/bazelboost/functional/actions/workflows/main.yml/badge.svg) |
+| [functional](https://github.com/bazelboost/functional) | ✔️ | ✔️ | N/A | ![functional module CI status badge](https://github.com/bazelboost/functional/actions/workflows/main.yml/badge.svg) |
 | [fusion](https://github.com/bazelboost/fusion) | | | | ![fusion module CI status badge](https://github.com/bazelboost/fusion/actions/workflows/main.yml/badge.svg) |
 | [geometry](https://github.com/bazelboost/geometry) | | | | ![geometry module CI status badge](https://github.com/bazelboost/geometry/actions/workflows/main.yml/badge.svg) |
 | [gil](https://github.com/bazelboost/gil) | | | | ![gil module CI status badge](https://github.com/bazelboost/gil/actions/workflows/main.yml/badge.svg) |
@@ -95,7 +95,7 @@ WORK IN PROGRESS - This is experimental and may not work correctly. Contribution
 | [ptr_container](https://github.com/bazelboost/ptr_container) | | | | ![ptr_container module CI status badge](https://github.com/bazelboost/ptr_container/actions/workflows/main.yml/badge.svg) |
 | [python](https://github.com/bazelboost/python) | | | | ![python module CI status badge](https://github.com/bazelboost/python/actions/workflows/main.yml/badge.svg) |
 | [qvm](https://github.com/bazelboost/qvm) | | | | ![qvm module CI status badge](https://github.com/bazelboost/qvm/actions/workflows/main.yml/badge.svg) |
-| [random](https://github.com/bazelboost/random) | | | | ![random module CI status badge](https://github.com/bazelboost/random/actions/workflows/main.yml/badge.svg) |
+| [random](https://github.com/bazelboost/random) | ✔️ | ❌ | ❌ | ![random module CI status badge](https://github.com/bazelboost/random/actions/workflows/main.yml/badge.svg) |
 | [range](https://github.com/bazelboost/range) | | | | ![range module CI status badge](https://github.com/bazelboost/range/actions/workflows/main.yml/badge.svg) |
 | [ratio](https://github.com/bazelboost/ratio) | | | | ![ratio module CI status badge](https://github.com/bazelboost/ratio/actions/workflows/main.yml/badge.svg) |
 | [rational](https://github.com/bazelboost/rational) | | | | ![rational module CI status badge](https://github.com/bazelboost/rational/actions/workflows/main.yml/badge.svg) |
@@ -103,7 +103,7 @@ WORK IN PROGRESS - This is experimental and may not work correctly. Contribution
 | [scope_exit](https://github.com/bazelboost/scope_exit) | | | | ![scope_exit module CI status badge](https://github.com/bazelboost/scope_exit/actions/workflows/main.yml/badge.svg) |
 | [serialization](https://github.com/bazelboost/serialization) | | | | ![serialization module CI status badge](https://github.com/bazelboost/serialization/actions/workflows/main.yml/badge.svg) |
 | [signals](https://github.com/bazelboost/signals) | | | | ![signals module CI status badge](https://github.com/bazelboost/signals/actions/workflows/main.yml/badge.svg) |
-| [signals2](https://github.com/bazelboost/signals2) | | | | ![signals2 module CI status badge](https://github.com/bazelboost/signals2/actions/workflows/main.yml/badge.svg) |
+| [signals2](https://github.com/bazelboost/signals2) | ✔️ | ✔️ | ❌ | ![signals2 module CI status badge](https://github.com/bazelboost/signals2/actions/workflows/main.yml/badge.svg) |
 | [smart_ptr](https://github.com/bazelboost/smart_ptr) | ✔️ | ❌ | ❌ | ![smart_ptr module CI status badge](https://github.com/bazelboost/smart_ptr/actions/workflows/main.yml/badge.svg) |
 | [sort](https://github.com/bazelboost/sort) | | | | ![sort module CI status badge](https://github.com/bazelboost/sort/actions/workflows/main.yml/badge.svg) |
 | [spirit](https://github.com/bazelboost/spirit) | | | | ![spirit module CI status badge](https://github.com/bazelboost/spirit/actions/workflows/main.yml/badge.svg) |
@@ -114,14 +114,14 @@ WORK IN PROGRESS - This is experimental and may not work correctly. Contribution
 | [test](https://github.com/bazelboost/test) | ✔️ | ❌ | ❌ | ![test module CI status badge](https://github.com/bazelboost/test/actions/workflows/main.yml/badge.svg) |
 | [thread](https://github.com/bazelboost/thread) | | | | ![thread module CI status badge](https://github.com/bazelboost/thread/actions/workflows/main.yml/badge.svg) |
 | [throw_exception](https://github.com/bazelboost/throw_exception) | | | | ![throw_exception module CI status badge](https://github.com/bazelboost/throw_exception/actions/workflows/main.yml/badge.svg) |
-| [timer](https://github.com/bazelboost/timer) | | | | ![timer module CI status badge](https://github.com/bazelboost/timer/actions/workflows/main.yml/badge.svg) |
+| [timer](https://github.com/bazelboost/timer) | ✔️ | ✔️ | ✔️ | ![timer module CI status badge](https://github.com/bazelboost/timer/actions/workflows/main.yml/badge.svg) |
 | [tokenizer](https://github.com/bazelboost/tokenizer) | | | | ![tokenizer module CI status badge](https://github.com/bazelboost/tokenizer/actions/workflows/main.yml/badge.svg) |
 | [tti](https://github.com/bazelboost/tti) | | | | ![tti module CI status badge](https://github.com/bazelboost/tti/actions/workflows/main.yml/badge.svg) |
 | [tuple](https://github.com/bazelboost/tuple) | ✔️ | ✔️ | N/A | ![tuple module CI status badge](https://github.com/bazelboost/tuple/actions/workflows/main.yml/badge.svg) |
 | [type_erasure](https://github.com/bazelboost/type_erasure) | | | | ![type_erasure module CI status badge](https://github.com/bazelboost/type_erasure/actions/workflows/main.yml/badge.svg) |
 | [type_index](https://github.com/bazelboost/type_index) | | | | ![type_index module CI status badge](https://github.com/bazelboost/type_index/actions/workflows/main.yml/badge.svg) |
-| [type_traits](https://github.com/bazelboost/type_traits) | | | | ![type_traits module CI status badge](https://github.com/bazelboost/type_traits/actions/workflows/main.yml/badge.svg) |
-| [typeof](https://github.com/bazelboost/typeof) | | | | ![typeof module CI status badge](https://github.com/bazelboost/typeof/actions/workflows/main.yml/badge.svg) |
+| [type_traits](https://github.com/bazelboost/type_traits) | ✔️ | ✔️ | ❌ | ![type_traits module CI status badge](https://github.com/bazelboost/type_traits/actions/workflows/main.yml/badge.svg) |
+| [typeof](https://github.com/bazelboost/typeof) | ✔️ | ✔️ | N/A | ![typeof module CI status badge](https://github.com/bazelboost/typeof/actions/workflows/main.yml/badge.svg) |
 | [units](https://github.com/bazelboost/units) | | | | ![units module CI status badge](https://github.com/bazelboost/units/actions/workflows/main.yml/badge.svg) |
 | [unordered](https://github.com/bazelboost/unordered) | | | | ![unordered module CI status badge](https://github.com/bazelboost/unordered/actions/workflows/main.yml/badge.svg) |
 | [utility](https://github.com/bazelboost/utility) | | | | ![utility module CI status badge](https://github.com/bazelboost/utility/actions/workflows/main.yml/badge.svg) |
