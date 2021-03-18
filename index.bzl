@@ -33,9 +33,9 @@ _boost_libs = {
         "sha256": "c8edc57e2d1fe0e99a257ad99139d7e1a8c885c01c4c27e3bc89b071ac19714a",
     },
     "assert": {
-        "strip_prefix": "assert-136d6d4a57651c4b875989fc24a00d37157f2e13",
-        "urls": ["https://github.com/bazelboost/assert/archive/136d6d4a57651c4b875989fc24a00d37157f2e13.zip"],
-        "sha256": "d7cca82f920780058741e2477695b47b8700163a12dd574733b3569a93fd2b2e",
+        "strip_prefix": "assert-b6b7938ed92538b9d226c112d8073b80e856ec78",
+        "urls": ["https://github.com/bazelboost/assert/archive/b6b7938ed92538b9d226c112d8073b80e856ec78.zip"],
+        "sha256": "94c1487a6c31e5ffb1d1a1556d477d853047fef369a9a4f4e20c5baf220cc221",
     },
     "assign": {
         "strip_prefix": "assign-015bb11b772f8380f6f036d77bb9f8160fd68571",
@@ -138,9 +138,9 @@ _boost_libs = {
         "sha256": "8b0a10546a64d599abf7349bef4293c0e2b9273136deda74c4cfc977e4e0667f",
     },
     "detail": {
-        "strip_prefix": "detail-97da39181bd07b26bba2c627e108e43c81e4fb07",
-        "urls": ["https://github.com/bazelboost/detail/archive/97da39181bd07b26bba2c627e108e43c81e4fb07.zip"],
-        "sha256": "0c2a552c68196c4c6bf350a094866e4c083324bd08a9de2dbe76af0f6db12a8a",
+        "strip_prefix": "detail-6380fc78ea32713579f2d76ea4c21ae7393c91a9",
+        "urls": ["https://github.com/bazelboost/detail/archive/6380fc78ea32713579f2d76ea4c21ae7393c91a9.zip"],
+        "sha256": "f808d46e2a6e98fb5ccc06b12c854bd1af20e1b5aa048cf44caafabb2d8c9dea",
     },
     "disjoint_sets": {
         "strip_prefix": "disjoint_sets-f1b0f11717d6ae2cea4b353423f2e06c58c5d580",
@@ -173,9 +173,9 @@ _boost_libs = {
         "sha256": "",
     },
     "filesystem": {
-        "strip_prefix": "filesystem-388799933f96e65e2d2c4a92e593932f40634bf6",
-        "urls": ["https://github.com/bazelboost/filesystem/archive/388799933f96e65e2d2c4a92e593932f40634bf6.zip"],
-        "sha256": "",
+        "strip_prefix": "filesystem-5b6baf3c24078878ba9ab0d23c25930737807896",
+        "urls": ["https://github.com/bazelboost/filesystem/archive/5b6baf3c24078878ba9ab0d23c25930737807896.zip"],
+        "sha256": "bc59aa74b7287a21f07c5aa6ee8706f0ad3271d0a4c9b575c021999852ede2b1",
     },
     "flyweight": {
         "strip_prefix": "flyweight-ea803909075d630d9263ed406f418d13ab4e5b64",
@@ -195,7 +195,7 @@ _boost_libs = {
     "function": {
         "strip_prefix": "function-3b231560def2d55d6224ec6c361d2b33610f0bbe",
         "urls": ["https://github.com/bazelboost/function/archive/3b231560def2d55d6224ec6c361d2b33610f0bbe.zip"],
-        "sha256": "",
+        "sha256": "86e86faf8dbee3cdabf81e4264e464eddbb6b69af5841a2dd8d14660384a1e9e",
     },
     "function_types": {
         "strip_prefix": "function_types-90fa2353dce0762961c345c134caa528ade891d3",
@@ -205,7 +205,7 @@ _boost_libs = {
     "functional": {
         "strip_prefix": "functional-b8e22547232819fefd9995c5d7edee8e49763096",
         "urls": ["https://github.com/bazelboost/functional/archive/b8e22547232819fefd9995c5d7edee8e49763096.zip"],
-        "sha256": "",
+        "sha256": "c9b93527b581e4a63188f25a05b941e75658b9c52fd90597412e7cf1ef400dfd",
     },
     "fusion": {
         "strip_prefix": "fusion-9fea2347e9e5505fb88f895988848f3e4e1c55de",
@@ -398,9 +398,9 @@ _boost_libs = {
         "sha256": "",
     },
     "predef": {
-        "strip_prefix": "predef-13f56849d6262cafdc85b1c865e7f4feb6e93783",
-        "urls": ["https://github.com/bazelboost/predef/archive/13f56849d6262cafdc85b1c865e7f4feb6e93783.zip"],
-        "sha256": "8106bed77bb1c328f3e59c790ea412026c9479ef4f61e2a0f9ad1d76f42b3d27",
+        "strip_prefix": "predef-80dd678d58b6a9b8a05427f8fed76494db596230",
+        "urls": ["https://github.com/bazelboost/predef/archive/80dd678d58b6a9b8a05427f8fed76494db596230.zip"],
+        "sha256": "02c0a27324040d6e1f3809edbe0537dba8918b8b3bfd0aceeebe4cda02c4e9c1",
     },
     "preprocessor": {
         "strip_prefix": "preprocessor-b8b487b58f0f7fff1360d517f5d5840a04545849",
@@ -408,9 +408,9 @@ _boost_libs = {
         "sha256": "14696aa98773909bdfdad6df6625fedb48178bf625d8165a8ac0fb5d7bb90712",
     },
     "process": {
-        "strip_prefix": "process-3c639eb65c0bd538a6d33504f8327b91d4508a5c",
-        "urls": ["https://github.com/bazelboost/process/archive/3c639eb65c0bd538a6d33504f8327b91d4508a5c.zip"],
-        "sha256": "",
+        "strip_prefix": "process-67db2ac9b52787501688676c579aff435ccb7e7e",
+        "urls": ["https://github.com/bazelboost/process/archive/67db2ac9b52787501688676c579aff435ccb7e7e.zip"],
+        "sha256": "dac583b0098331ceba85349058422fd34d5cd1844f83fd62e3d4550f60ac8929",
     },
     "program_options": {
         "strip_prefix": "program_options-c5ed81ceef35d763922e5e575b151b55ebc220a3",
@@ -503,9 +503,9 @@ _boost_libs = {
         "sha256": "",
     },
     "spirit": {
-        "strip_prefix": "spirit-2633e82a39b8aa3b6df324f1f80f14d6dc0b9b73",
-        "urls": ["https://github.com/bazelboost/spirit/archive/2633e82a39b8aa3b6df324f1f80f14d6dc0b9b73.zip"],
-        "sha256": "c48bb0e111947125c6ff0cb389df78124d93190cd65535a5b0fb21751fc29059",
+        "strip_prefix": "spirit-83b1a9401621547138bd9507f59404d298758073",
+        "urls": ["https://github.com/bazelboost/spirit/archive/83b1a9401621547138bd9507f59404d298758073.zip"],
+        "sha256": "466a341341405d44b366051353fc8230e00a0488a932fbf069ea6060266664ab",
     },
     "stacktrace": {
         "strip_prefix": "stacktrace-064edb28903b84626d75d84f3a599699f5115634",
@@ -533,9 +533,9 @@ _boost_libs = {
         "sha256": "",
     },
     "thread": {
-        "strip_prefix": "thread-4ede8f2839e114f57b8ba8aaa175a94877c5f9ce",
-        "urls": ["https://github.com/bazelboost/thread/archive/4ede8f2839e114f57b8ba8aaa175a94877c5f9ce.zip"],
-        "sha256": "00b1e728a3f985b79cc58bc8ea9d7ecdd7d671d9e4f7490e8fa9220d2117235e",
+        "strip_prefix": "thread-dd0f1edc8b0d6fa60591c16435488585e66ad0f7",
+        "urls": ["https://github.com/bazelboost/thread/archive/dd0f1edc8b0d6fa60591c16435488585e66ad0f7.zip"],
+        "sha256": "71df77785f35fac6df71ed59c437f47390a8a72345357db41aa842c57a0ded8e",
     },
     "throw_exception": {
         "strip_prefix": "throw_exception-fd2a61f16711c2e286cd5f36cacbe2856404152e",
@@ -548,9 +548,9 @@ _boost_libs = {
         "sha256": "",
     },
     "tokenizer": {
-        "strip_prefix": "tokenizer-739453f5b497fe3ae82a72c6ddf83191c0a3afbe",
-        "urls": ["https://github.com/bazelboost/tokenizer/archive/739453f5b497fe3ae82a72c6ddf83191c0a3afbe.zip"],
-        "sha256": "",
+        "strip_prefix": "tokenizer-51b2c5e1456f12d5e6da173fac849745e6626a66",
+        "urls": ["https://github.com/bazelboost/tokenizer/archive/51b2c5e1456f12d5e6da173fac849745e6626a66.zip"],
+        "sha256": "64b36935d8ceb63907f4203b3e7a42ea08f26103b2ec38fe4419c13d1d47701f",
     },
     "tti": {
         "strip_prefix": "tti-88113c5629eb1a5ea0f1c2b2d56c47912e0940ec",
@@ -580,7 +580,7 @@ _boost_libs = {
     "typeof": {
         "strip_prefix": "typeof-467063b27fa6d0a0b6286d6cc332009db5192a5a",
         "urls": ["https://github.com/bazelboost/typeof/archive/467063b27fa6d0a0b6286d6cc332009db5192a5a.zip"],
-        "sha256": "",
+        "sha256": "c6df4609971484a9d636f7e9629cb6da5f408cded0b0e668d01904d9972725aa",
     },
     "units": {
         "strip_prefix": "units-8d5fcbae9861d5dbe2c96d9219a5b688de11259b",
@@ -605,7 +605,7 @@ _boost_libs = {
     "variant": {
         "strip_prefix": "variant-d1bc9a7577a3616178e0d517a4c4ccf3692c8733",
         "urls": ["https://github.com/bazelboost/variant/archive/d1bc9a7577a3616178e0d517a4c4ccf3692c8733.zip"],
-        "sha256": "",
+        "sha256": "153b650df7510a203d2e5f14b95f3c137e056eecdf219621187de3423c81c1a8",
     },
     "vmd": {
         "strip_prefix": "vmd-72443ee2b4a21b691e8e6136435d15d7ccd6333f",
