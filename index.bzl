@@ -408,9 +408,9 @@ _boost_libs = {
         "sha256": "14696aa98773909bdfdad6df6625fedb48178bf625d8165a8ac0fb5d7bb90712",
     },
     "process": {
-        "strip_prefix": "process-67db2ac9b52787501688676c579aff435ccb7e7e",
-        "urls": ["https://github.com/bazelboost/process/archive/67db2ac9b52787501688676c579aff435ccb7e7e.zip"],
-        "sha256": "dac583b0098331ceba85349058422fd34d5cd1844f83fd62e3d4550f60ac8929",
+        "strip_prefix": "process-3d4c7ee4726c75f09c40363a781959b9775b9c04",
+        "urls": ["https://github.com/bazelboost/process/archive/3d4c7ee4726c75f09c40363a781959b9775b9c04.zip"],
+        "sha256": "4d3e1971366a569835a105a5139ef40964a74bb695f06a57dd838f9c528ebaaf",
     },
     "program_options": {
         "strip_prefix": "program_options-c5ed81ceef35d763922e5e575b151b55ebc220a3",
