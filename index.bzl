@@ -47,6 +47,11 @@ _boost_libs = {
         "urls": ["https://github.com/bazelboost/atomic/archive/a8a22e83ca794fcf7f466aa2b80944c4b2316c96.zip"],
         "sha256": "",
     },
+    "beast": {
+        "strip_prefix": "beast-7cbe5f88eeca7f2a69eaca3c85b629fa8b8a47f7",
+        "urls": ["https://github.com/bazelboost/beast/archive/7cbe5f88eeca7f2a69eaca3c85b629fa8b8a47f7.zip"],
+        "sha256": "",
+    },
     "bimap": {
         "strip_prefix": "bimap-118397a2ba5998866fbf0cdc09075b6a6a831eb0",
         "urls": ["https://github.com/bazelboost/bimap/archive/118397a2ba5998866fbf0cdc09075b6a6a831eb0.zip"],

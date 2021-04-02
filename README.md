@@ -15,6 +15,7 @@ WORK IN PROGRESS - This is experimental and may not work correctly. Contribution
 | [assert](https://github.com/bazelboost/assert) | ✔️ | ✔️ | N/A | ![assert module CI status badge](https://github.com/bazelboost/assert/actions/workflows/main.yml/badge.svg) |
 | [assign](https://github.com/bazelboost/assign) | | | | ![assign module CI status badge](https://github.com/bazelboost/assign/actions/workflows/main.yml/badge.svg) |
 | [atomic](https://github.com/bazelboost/atomic) | | | | ![atomic module CI status badge](https://github.com/bazelboost/atomic/actions/workflows/main.yml/badge.svg) |
+| [beast](https://github.com/bazelboost/beast) | ✔️ | ❌ | ❌ | ![beast module CI status badge](https://github.com/bazelboost/beast/actions/workflows/bazel.yml/badge.svg) |
 | [bimap](https://github.com/bazelboost/bimap) | | | | ![bimap module CI status badge](https://github.com/bazelboost/bimap/actions/workflows/main.yml/badge.svg) |
 | [bind](https://github.com/bazelboost/bind) | ✔️ | ❌ | ❌ | ![bind module CI status badge](https://github.com/bazelboost/bind/actions/workflows/main.yml/badge.svg) |
 | [chrono](https://github.com/bazelboost/chrono) | | | | ![chrono module CI status badge](https://github.com/bazelboost/chrono/actions/workflows/main.yml/badge.svg) |
