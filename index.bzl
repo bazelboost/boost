@@ -28,9 +28,9 @@ _boost_libs = {
         "sha256": "5023a13675f85d065b0a48f136ac771101af2eb3314d19eb7040d103ebd801f0",
     },
     "asio": {
-        "strip_prefix": "asio-c10a5245ee7fb71994b77dd9d798ae02f535f69e",
-        "urls": ["https://github.com/bazelboost/asio/archive/c10a5245ee7fb71994b77dd9d798ae02f535f69e.zip"],
-        "sha256": "ed048298f5e2eae696665cf3baa90a14087c18bbadc172ea2cf6b64f877aa4bd",
+        "strip_prefix": "asio-a65cee531ab6dda5ea036c90c612ed768a3a0928",
+        "urls": ["https://github.com/bazelboost/asio/archive/a65cee531ab6dda5ea036c90c612ed768a3a0928.zip"],
+        "sha256": "b84cbbf563d5adf62590e42f883901645419a4072e09ee2c23b8153df3785251",
     },
     "assert": {
         "strip_prefix": "assert-b6b7938ed92538b9d226c112d8073b80e856ec78",
@@ -48,9 +48,9 @@ _boost_libs = {
         "sha256": "",
     },
     "beast": {
-        "strip_prefix": "beast-b262ed20867f8dbebc8a8329bff055de232c436d",
-        "urls": ["https://github.com/bazelboost/beast/archive/b262ed20867f8dbebc8a8329bff055de232c436d.zip"],
-        "sha256": "f0ef3ae5c5c8ac163dc00115bd8b061739dc8b53eb81ec81540f2552954497c6",
+        "strip_prefix": "beast-b0ed0f3731308b8ad81623c6647e672bfca61fbf",
+        "urls": ["https://github.com/bazelboost/beast/archive/b0ed0f3731308b8ad81623c6647e672bfca61fbf.zip"],
+        "sha256": "bf9914ebd0860ace5ccb6c4c503bd93c5c2e2f85995b63cd7c741058e798172f",
     },
     "bimap": {
         "strip_prefix": "bimap-118397a2ba5998866fbf0cdc09075b6a6a831eb0",
