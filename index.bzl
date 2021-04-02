@@ -48,9 +48,9 @@ _boost_libs = {
         "sha256": "",
     },
     "beast": {
-        "strip_prefix": "beast-7cbe5f88eeca7f2a69eaca3c85b629fa8b8a47f7",
-        "urls": ["https://github.com/bazelboost/beast/archive/7cbe5f88eeca7f2a69eaca3c85b629fa8b8a47f7.zip"],
-        "sha256": "",
+        "strip_prefix": "beast-b262ed20867f8dbebc8a8329bff055de232c436d",
+        "urls": ["https://github.com/bazelboost/beast/archive/b262ed20867f8dbebc8a8329bff055de232c436d.zip"],
+        "sha256": "f0ef3ae5c5c8ac163dc00115bd8b061739dc8b53eb81ec81540f2552954497c6",
     },
     "bimap": {
         "strip_prefix": "bimap-118397a2ba5998866fbf0cdc09075b6a6a831eb0",
@@ -263,9 +263,9 @@ _boost_libs = {
         "sha256": "",
     },
     "intrusive": {
-        "strip_prefix": "intrusive-6b1debfe454935377e0fd9a9f39d084e22e167ed",
-        "urls": ["https://github.com/bazelboost/intrusive/archive/6b1debfe454935377e0fd9a9f39d084e22e167ed.zip"],
-        "sha256": "",
+        "strip_prefix": "intrusive-b26577c512b74e734d8ce4859b5e1592a5a84a86",
+        "urls": ["https://github.com/bazelboost/intrusive/archive/b26577c512b74e734d8ce4859b5e1592a5a84a86.zip"],
+        "sha256": "2dcd6c81987438c48e2e51edcf0ddc512ac6abbe57222cbe547126b4c2644143",
     },
     "io": {
         "strip_prefix": "io-e1e4521b7e8e91e62cf0d4232fa216cd361d551d",
@@ -313,9 +313,9 @@ _boost_libs = {
         "sha256": "",
     },
     "logic": {
-        "strip_prefix": "logic-4d4d71072a89ee78f7994efaa6e04409a717e9eb",
-        "urls": ["https://github.com/bazelboost/logic/archive/4d4d71072a89ee78f7994efaa6e04409a717e9eb.zip"],
-        "sha256": "",
+        "strip_prefix": "logic-2434cfd9cbf91d53211a2cfe084f58c523ee01f9",
+        "urls": ["https://github.com/bazelboost/logic/archive/2434cfd9cbf91d53211a2cfe084f58c523ee01f9.zip"],
+        "sha256": "fe0ee5636e7e43d93d303d392a41c5b23571e26e5259e7e74c58c56b1584a9d4",
     },
     "math": {
         "strip_prefix": "math-de84f1284ec9da5ef4df6d15e60921d2b0f29ce5",
