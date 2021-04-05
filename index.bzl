@@ -28,9 +28,9 @@ _boost_libs = {
         "sha256": "5023a13675f85d065b0a48f136ac771101af2eb3314d19eb7040d103ebd801f0",
     },
     "asio": {
-        "strip_prefix": "asio-a65cee531ab6dda5ea036c90c612ed768a3a0928",
-        "urls": ["https://github.com/bazelboost/asio/archive/a65cee531ab6dda5ea036c90c612ed768a3a0928.zip"],
-        "sha256": "b84cbbf563d5adf62590e42f883901645419a4072e09ee2c23b8153df3785251",
+        "strip_prefix": "asio-c1d522a62d83b587b75fdba01cc3d16071162777",
+        "urls": ["https://github.com/bazelboost/asio/archive/c1d522a62d83b587b75fdba01cc3d16071162777.zip"],
+        "sha256": "0ef890ebe4f84e873a66d4a235927d1012f6865e4cbb57aa5d811d346af38257",
     },
     "assert": {
         "strip_prefix": "assert-b6b7938ed92538b9d226c112d8073b80e856ec78",
