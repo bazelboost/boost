@@ -48,9 +48,9 @@ _boost_libs = {
         "sha256": "",
     },
     "beast": {
-        "strip_prefix": "beast-b0ed0f3731308b8ad81623c6647e672bfca61fbf",
-        "urls": ["https://github.com/bazelboost/beast/archive/b0ed0f3731308b8ad81623c6647e672bfca61fbf.zip"],
-        "sha256": "bf9914ebd0860ace5ccb6c4c503bd93c5c2e2f85995b63cd7c741058e798172f",
+        "strip_prefix": "beast-ec32f52e133dd8b57b636b1eaf2609bf3ca3d306",
+        "urls": ["https://github.com/bazelboost/beast/archive/ec32f52e133dd8b57b636b1eaf2609bf3ca3d306.zip"],
+        "sha256": "9205b4d1e9af502894d64ce9f5de2e88b82ccefa86ee1471a9c7062216f50eb0",
     },
     "bimap": {
         "strip_prefix": "bimap-118397a2ba5998866fbf0cdc09075b6a6a831eb0",
@@ -163,9 +163,9 @@ _boost_libs = {
         "sha256": "",
     },
     "endian": {
-        "strip_prefix": "endian-a8304627484f751984b1dd9458f0e6ea16520b05",
-        "urls": ["https://github.com/bazelboost/endian/archive/a8304627484f751984b1dd9458f0e6ea16520b05.zip"],
-        "sha256": "",
+        "strip_prefix": "endian-0c801337d0212721340597c38084bf5b4177e1ad",
+        "urls": ["https://github.com/bazelboost/endian/archive/0c801337d0212721340597c38084bf5b4177e1ad.zip"],
+        "sha256": "5d26e0c1be9519f7b247937111b5b774a876facadfb07a938617bd16c59f47f7",
     },
     "exception": {
         "strip_prefix": "exception-93f16e07b703cb92f0c7b05eda4f1b14aa638319",
