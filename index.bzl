@@ -553,9 +553,9 @@ _boost_libs = {
         "sha256": "7e736f7f10ef74492864a86742da7ac22598e0ec7c684174d0508c8e8470640e",
     },
     "tokenizer": {
-        "strip_prefix": "tokenizer-51b2c5e1456f12d5e6da173fac849745e6626a66",
-        "urls": ["https://github.com/bazelboost/tokenizer/archive/51b2c5e1456f12d5e6da173fac849745e6626a66.zip"],
-        "sha256": "64b36935d8ceb63907f4203b3e7a42ea08f26103b2ec38fe4419c13d1d47701f",
+        "strip_prefix": "tokenizer-3c9ff01a6d1ba5ddb2823a29b7f0fe3af7ac97d8",
+        "urls": ["https://github.com/bazelboost/tokenizer/archive/3c9ff01a6d1ba5ddb2823a29b7f0fe3af7ac97d8.zip"],
+        "sha256": "afcf47d7e830451702572a8c3074a5731954a6953b7cceaf456f283ac6a7f300",
     },
     "tti": {
         "strip_prefix": "tti-88113c5629eb1a5ea0f1c2b2d56c47912e0940ec",
