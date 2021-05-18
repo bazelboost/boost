@@ -308,14 +308,14 @@ _boost_libs = {
         "sha256": "2b80814e2a3a425d1bf6f513a0b44c4c95bb2cd7877c100343bc4db1dac8374b",
     },
     "log": {
-        "strip_prefix": "log-5dda33ecd02d70f47a4e8ed77b57eab66a5b02c3",
-        "urls": ["https://github.com/bazelboost/log/archive/5dda33ecd02d70f47a4e8ed77b57eab66a5b02c3.zip"],
-        "sha256": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
+        "strip_prefix": "log-20aa8bf9ebfcb99c3ada332985fcb80308540e75",
+        "urls": ["https://github.com/bazelboost/log/archive/20aa8bf9ebfcb99c3ada332985fcb80308540e75.zip"],
+        "sha256": "e6e87247fb75855bddf1647007e2feac1e6a8472c7659588cfa26fc3474a8fde",
     },
     "logic": {
-        "strip_prefix": "logic-2434cfd9cbf91d53211a2cfe084f58c523ee01f9",
-        "urls": ["https://github.com/bazelboost/logic/archive/2434cfd9cbf91d53211a2cfe084f58c523ee01f9.zip"],
-        "sha256": "fe0ee5636e7e43d93d303d392a41c5b23571e26e5259e7e74c58c56b1584a9d4",
+        "strip_prefix": "logic-5dda33ecd02d70f47a4e8ed77b57eab66a5b02c3",
+        "urls": ["https://github.com/bazelboost/logic/archive/5dda33ecd02d70f47a4e8ed77b57eab66a5b02c3.zip"],
+        "sha256": "d31e48f147e36677815bd75bead9982a49dc958000d453b1d5be5bdea83881c2",
     },
     "math": {
         "strip_prefix": "math-a578529bc6f058187d1a74973d4fa8c3024eb678",
@@ -510,7 +510,7 @@ _boost_libs = {
     "spirit": {
         "strip_prefix": "spirit-872c438daa97b7e892a33925f74ea17f20d4c7ed",
         "urls": ["https://github.com/bazelboost/spirit/archive/872c438daa97b7e892a33925f74ea17f20d4c7ed.zip"],
-        "sha256": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
+        "sha256": "3a2b99f268fd35eb5b45fcc8ee53b16f1689610d2073ca7245bca5a216999397",
     },
     "stacktrace": {
         "strip_prefix": "stacktrace-064edb28903b84626d75d84f3a599699f5115634",
