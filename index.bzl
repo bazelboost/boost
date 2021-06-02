@@ -8,9 +8,9 @@ _boost_libs = {
         "sha256": "533d36b3231c7e09446cc08f5206762769b97cbb82c46075750f8e665b88a1f6",
     },
     "algorithm": {
-        "strip_prefix": "algorithm-d282c8709932aac86f8b7930d37ba6bb5c44b5e3",
-        "urls": ["https://github.com/bazelboost/algorithm/archive/d282c8709932aac86f8b7930d37ba6bb5c44b5e3.zip"],
-        "sha256": "6986f28dfeceb9da95111ab40f1ebb4171de1a0826173253b5b638dddc28cc57",
+        "strip_prefix": "algorithm-4e6003614b2938f8ebc8af538c00bc126ddd9529",
+        "urls": ["https://github.com/bazelboost/algorithm/archive/4e6003614b2938f8ebc8af538c00bc126ddd9529.zip"],
+        "sha256": "89387c146cbc2db7a75f4d6d88ffab41b4164ff2bf2c30606b55b7d6a07a8088",
     },
     "align": {
         "strip_prefix": "align-d3de434b9feb32be5ce8689430d0100c8e1acdf4",
