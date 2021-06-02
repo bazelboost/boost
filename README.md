@@ -10,7 +10,7 @@ WORK IN PROGRESS - This is experimental and may not work correctly. Contribution
 | [algorithm](https://github.com/bazelboost/algorithm) | ✔️ | ❌ | ✔️ | ![algorithm module CI status badge](https://github.com/bazelboost/algorithm/actions/workflows/main.yml/badge.svg) |
 | [align](https://github.com/bazelboost/align) | ✔️ | ✔️ | ✔️ | ![align module CI status badge](https://github.com/bazelboost/align/actions/workflows/main.yml/badge.svg) |
 | [any](https://github.com/bazelboost/any) | | | | ![any module CI status badge](https://github.com/bazelboost/any/actions/workflows/main.yml/badge.svg) |
-| [array](https://github.com/bazelboost/array) | | | | ![array module CI status badge](https://github.com/bazelboost/array/actions/workflows/main.yml/badge.svg) |
+| [array](https://github.com/bazelboost/array) | ✔️ | ❌ | ❌ | ![array module CI status badge](https://github.com/bazelboost/array/actions/workflows/main.yml/badge.svg) |
 | [asio](https://github.com/bazelboost/asio) | ✔️ | ❌ | ❌ | ![asio module CI status badge](https://github.com/bazelboost/asio/actions/workflows/main.yml/badge.svg) |
 | [assert](https://github.com/bazelboost/assert) | ✔️ | ✔️ | N/A | ![assert module CI status badge](https://github.com/bazelboost/assert/actions/workflows/main.yml/badge.svg) |
 | [assign](https://github.com/bazelboost/assign) | | | | ![assign module CI status badge](https://github.com/bazelboost/assign/actions/workflows/main.yml/badge.svg) |
