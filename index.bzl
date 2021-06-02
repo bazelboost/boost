@@ -13,9 +13,9 @@ _boost_libs = {
         "sha256": "6986f28dfeceb9da95111ab40f1ebb4171de1a0826173253b5b638dddc28cc57",
     },
     "align": {
-        "strip_prefix": "align-6e416ba0b59ba08312ed197998e35aa08b207ce0",
-        "urls": ["https://github.com/bazelboost/align/archive/6e416ba0b59ba08312ed197998e35aa08b207ce0.zip"],
-        "sha256": "93940cbc61a9bb489c8873576273775b75b7cee6ca165144edf0b30d08416c11",
+        "strip_prefix": "align-d3de434b9feb32be5ce8689430d0100c8e1acdf4",
+        "urls": ["https://github.com/bazelboost/align/archive/d3de434b9feb32be5ce8689430d0100c8e1acdf4.zip"],
+        "sha256": "28f9ab23cbf1da55b3e074874b1fec6b93e0f82da76f560ca0911eb06c5cf10f",
     },
     "any": {
         "strip_prefix": "any-be90c084e4a593c1a5a17e223d6fa05433c9927a",
