@@ -343,9 +343,9 @@ _boost_libs = {
         "sha256": "d6507cd35df02ab2597fe2e357027ddf105ca4186991446aa3c50daa0d805143",
     },
     "mpl": {
-        "strip_prefix": "mpl-9843c85630f70f4ed1d92d450c62559b08f90d00",
-        "urls": ["https://github.com/bazelboost/mpl/archive/9843c85630f70f4ed1d92d450c62559b08f90d00.zip"],
-        "sha256": "d1fbe3e7104e78515a02ba312789fe1630cddbcba46d263fa414f7bb79f56aef",
+        "strip_prefix": "mpl-5920e96592bfbab53063dc669726dca3749b4a23",
+        "urls": ["https://github.com/bazelboost/mpl/archive/5920e96592bfbab53063dc669726dca3749b4a23.zip"],
+        "sha256": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
     },
     "msm": {
         "strip_prefix": "msm-58c3b937dd0ad4ec39d46b2c4cf7a48f14075775",

@@ -72,7 +72,7 @@ WORK IN PROGRESS - This is experimental and may not work correctly. Contribution
 | [math](https://github.com/bazelboost/math) | | | | ![math module CI status badge](https://github.com/bazelboost/math/actions/workflows/main.yml/badge.svg) |
 | [metaparse](https://github.com/bazelboost/metaparse) | | | | ![metaparse module CI status badge](https://github.com/bazelboost/metaparse/actions/workflows/main.yml/badge.svg) |
 | [move](https://github.com/bazelboost/move) | ✔️ | ❌ | ❌ | ![move module CI status badge](https://github.com/bazelboost/move/actions/workflows/main.yml/badge.svg) |
-| [mp11](https://github.com/bazelboost/mp11) | | | | ![mp11 module CI status badge](https://github.com/bazelboost/mp11/actions/workflows/main.yml/badge.svg) |
+| [mp11](https://github.com/bazelboost/mp11) | ✔️ | ✔️ | N/A | ![mp11 module CI status badge](https://github.com/bazelboost/mp11/actions/workflows/main.yml/badge.svg) |
 | [mpi](https://github.com/bazelboost/mpi) | | | | ![mpi module CI status badge](https://github.com/bazelboost/mpi/actions/workflows/main.yml/badge.svg) |
 | [mpl](https://github.com/bazelboost/mpl) | | | | ![mpl module CI status badge](https://github.com/bazelboost/mpl/actions/workflows/main.yml/badge.svg) |
 | [msm](https://github.com/bazelboost/msm) | | | | ![msm module CI status badge](https://github.com/bazelboost/msm/actions/workflows/main.yml/badge.svg) |
