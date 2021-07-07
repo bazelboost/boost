@@ -515,7 +515,7 @@ _boost_libs = {
     "stacktrace": {
         "strip_prefix": "stacktrace-8043612a55758287af20eb438a9592be2a6468d4",
         "urls": ["https://github.com/bazelboost/stacktrace/archive/8043612a55758287af20eb438a9592be2a6468d4.zip"],
-        "sha256": "bd8508549a3f90955fc2401be0b6d2732d26683440966d2179467e698edf808",
+        "sha256": "bd8508549a3f90955fc2401be0b6d2732d26683440966d2179467e698edf8081",
     },
     "statechart": {
         "strip_prefix": "statechart-403e4669d4fcb88b933fb9c1b2f66e4bacd5accd",
