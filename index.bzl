@@ -513,9 +513,9 @@ _boost_libs = {
         "sha256": "3a2b99f268fd35eb5b45fcc8ee53b16f1689610d2073ca7245bca5a216999397",
     },
     "stacktrace": {
-        "strip_prefix": "stacktrace-a862e61116b4eb5ed53fea6bfa0b4d58751c8ddc",
-        "urls": ["https://github.com/bazelboost/stacktrace/archive/a862e61116b4eb5ed53fea6bfa0b4d58751c8ddc.zip"],
-        "sha256": "7747003ab021b2cbb2ddd053be4f58804d9d9c5073fa14d016d413e5affef32f",
+        "strip_prefix": "stacktrace-8043612a55758287af20eb438a9592be2a6468d4",
+        "urls": ["https://github.com/bazelboost/stacktrace/archive/8043612a55758287af20eb438a9592be2a6468d4.zip"],
+        "sha256": "bd8508549a3f90955fc2401be0b6d2732d26683440966d2179467e698edf808",
     },
     "statechart": {
         "strip_prefix": "statechart-403e4669d4fcb88b933fb9c1b2f66e4bacd5accd",
