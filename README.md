@@ -109,7 +109,7 @@ WORK IN PROGRESS - This is experimental and may not work correctly. Contribution
 | [sort](https://github.com/bazelboost/sort) | | | | ![sort module CI status badge](https://github.com/bazelboost/sort/actions/workflows/main.yml/badge.svg) |
 | [spirit](https://github.com/bazelboost/spirit) | | | | ![spirit module CI status badge](https://github.com/bazelboost/spirit/actions/workflows/main.yml/badge.svg) |
 | [stacktrace](https://github.com/bazelboost/stacktrace) | | | | ![stacktrace module CI status badge](https://github.com/bazelboost/stacktrace/actions/workflows/main.yml/badge.svg) |
-| [statechart](https://github.com/bazelboost/statechart) | | | | ![statechart module CI status badge](https://github.com/bazelboost/statechart/actions/workflows/main.yml/badge.svg) |
+| [statechart](https://github.com/bazelboost/statechart) | ✔️ | ❌ | ❌ | ![statechart module CI status badge](https://github.com/bazelboost/statechart/actions/workflows/bazel.yml/badge.svg) |
 | [static_assert](https://github.com/bazelboost/static_assert) | ✔️ | ✔️ | ✔️ | ![static_assert module CI status badge](https://github.com/bazelboost/static_assert/actions/workflows/main.yml/badge.svg) |
 | [system](https://github.com/bazelboost/system) | | | | ![system module CI status badge](https://github.com/bazelboost/system/actions/workflows/main.yml/badge.svg) |
 | [test](https://github.com/bazelboost/test) | ✔️ | ❌ | ❌ | ![test module CI status badge](https://github.com/bazelboost/test/actions/workflows/main.yml/badge.svg) |
