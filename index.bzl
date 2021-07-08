@@ -43,9 +43,9 @@ _boost_libs = {
         "sha256": "388f3d7cb3bb2d30764b9bd3264f0484ecf57baff99a04a86e3d424e2a742242",
     },
     "atomic": {
-        "strip_prefix": "atomic-70ea3d33137cb0e152d4dc0af867ba4f7917d9e5",
-        "urls": ["https://github.com/bazelboost/atomic/archive/70ea3d33137cb0e152d4dc0af867ba4f7917d9e5.zip"],
-        "sha256": "3cb6929deb3e8fb6130634e85ad5ca20c2cf76ee0d0eb312ac6ee6133528a5b4",
+        "strip_prefix": "atomic-12da00208e8f1d5cc47370b989e38aea31baf95a",
+        "urls": ["https://github.com/bazelboost/atomic/archive/12da00208e8f1d5cc47370b989e38aea31baf95a.zip"],
+        "sha256": "9a0b00abb8cf7f83309610934be6a4e81b52b9ea6ed3e5c4546ebdfe0e456ec7",
     },
     "beast": {
         "strip_prefix": "beast-4c3c68cee7b93aa72f58d8c262cd65a482f31500",
@@ -513,9 +513,9 @@ _boost_libs = {
         "sha256": "3a2b99f268fd35eb5b45fcc8ee53b16f1689610d2073ca7245bca5a216999397",
     },
     "stacktrace": {
-        "strip_prefix": "stacktrace-8043612a55758287af20eb438a9592be2a6468d4",
-        "urls": ["https://github.com/bazelboost/stacktrace/archive/8043612a55758287af20eb438a9592be2a6468d4.zip"],
-        "sha256": "bd8508549a3f90955fc2401be0b6d2732d26683440966d2179467e698edf8081",
+        "strip_prefix": "stacktrace-95b048e5811111e628e84544548f019ae873782e",
+        "urls": ["https://github.com/bazelboost/stacktrace/archive/95b048e5811111e628e84544548f019ae873782e.zip"],
+        "sha256": "1e892bd2dc6696de4e0e0f7d64db164193cdd19867f865f838f425eab5ea7d1b",
     },
     "statechart": {
         "strip_prefix": "statechart-403e4669d4fcb88b933fb9c1b2f66e4bacd5accd",
@@ -578,9 +578,9 @@ _boost_libs = {
         "sha256": "2c7acdaf6e7e00732849b22dba7b1438166488d93f6781f809135468f58c7ea5",
     },
     "type_traits": {
-        "strip_prefix": "type_traits-74606d6515efa16f69b1e55408baaa2e8c43dd29",
-        "urls": ["https://github.com/bazelboost/type_traits/archive/74606d6515efa16f69b1e55408baaa2e8c43dd29.zip"],
-        "sha256": "a6f6d7015ac21cb4c682fc210c5861892b7eb2e4226ad35078a8d86e8d3671b5",
+        "strip_prefix": "type_traits-8e27f5b44747d81b265d174767b5e6f778e33a4c",
+        "urls": ["https://github.com/bazelboost/type_traits/archive/8e27f5b44747d81b265d174767b5e6f778e33a4c.zip"],
+        "sha256": "c811c85709b16da7bf0a543db54171a3b058b5c014d9d21784101a577b1a2d55",
     },
     "typeof": {
         "strip_prefix": "typeof-e7b53c027929e74157f04cdd28b8dd80661797c1",
