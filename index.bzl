@@ -153,9 +153,9 @@ _boost_libs = {
         "sha256": "e86b5efcebfbd8e79fbc0c5a22cb8bf7f5179af1c3aad4f954eeb89cfb7c8d60",
     },
     "dll": {
-        "strip_prefix": "dll-715eba080365d99bc9d41113fe5db88db5a8a507",
-        "urls": ["https://github.com/bazelboost/dll/archive/715eba080365d99bc9d41113fe5db88db5a8a507.zip"],
-        "sha256": "4edb7deafdb6be65ee94a77d8cad8afa1067e9b658a164a13ef7be36041a4bcb",
+        "strip_prefix": "dll-189e730fd439c15deb5712ecfb9b754b21385912",
+        "urls": ["https://github.com/bazelboost/dll/archive/189e730fd439c15deb5712ecfb9b754b21385912.zip"],
+        "sha256": "",
     },
     "dynamic_bitset": {
         "strip_prefix": "dynamic_bitset-20e1844872934a249b5abaeb99092a5aa942b0b7",
@@ -508,9 +508,9 @@ _boost_libs = {
         "sha256": "ee851603cde4a1f01cb5e2952af0e4cf044ec7beb16f0a9fb600933089d3ee9a",
     },
     "spirit": {
-        "strip_prefix": "spirit-872c438daa97b7e892a33925f74ea17f20d4c7ed",
-        "urls": ["https://github.com/bazelboost/spirit/archive/872c438daa97b7e892a33925f74ea17f20d4c7ed.zip"],
-        "sha256": "3a2b99f268fd35eb5b45fcc8ee53b16f1689610d2073ca7245bca5a216999397",
+        "strip_prefix": "spirit-74b4ca90fa70de813c0a581a5d79bd54fb9bc92d",
+        "urls": ["https://github.com/bazelboost/spirit/archive/74b4ca90fa70de813c0a581a5d79bd54fb9bc92d.zip"],
+        "sha256": "",
     },
     "stacktrace": {
         "strip_prefix": "stacktrace-95b048e5811111e628e84544548f019ae873782e",
