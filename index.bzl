@@ -384,8 +384,8 @@ _boost_libs = {
     },
     "pfr": {
         "strip_prefix": "pfr-45dafa625a60355d838ea2fca965a1aaacf52199",
-        "urls" = ["https://github.com/bazelboost/pfr/archive/45dafa625a60355d838ea2fca965a1aaacf52199.zip"],
-        "sha256" = "",
+        "urls": ["https://github.com/bazelboost/pfr/archive/45dafa625a60355d838ea2fca965a1aaacf52199.zip"],
+        "sha256": "",
     },
     "phoenix": {
         "strip_prefix": "phoenix-5ac47802d1f67e8b155f295dd95cec7070370c4d",
