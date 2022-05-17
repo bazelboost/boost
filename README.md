@@ -83,6 +83,7 @@ WORK IN PROGRESS - This is experimental and may not work correctly. Contribution
 | [optional](https://github.com/bazelboost/optional) | | | | ![optional module CI status badge](https://github.com/bazelboost/optional/actions/workflows/main.yml/badge.svg) |
 | [parameter](https://github.com/bazelboost/parameter) | | | | ![parameter module CI status badge](https://github.com/bazelboost/parameter/actions/workflows/main.yml/badge.svg) |
 | [phoenix](https://github.com/bazelboost/phoenix) | | | | ![phoenix module CI status badge](https://github.com/bazelboost/phoenix/actions/workflows/main.yml/badge.svg) |
+| [pfr](https://github.com/bazelboost/pfr) | | | | ![pfr module CI status badge](https://github.com/bazelboost/phoenix/actions/workflows/bazel.yml/badge.svg) |
 | [poly_collection](https://github.com/bazelboost/poly_collection) | | | | ![poly_collection module CI status badge](https://github.com/bazelboost/poly_collection/actions/workflows/main.yml/badge.svg) |
 | [polygon](https://github.com/bazelboost/polygon) | | | | ![polygon module CI status badge](https://github.com/bazelboost/polygon/actions/workflows/main.yml/badge.svg) |
 | [pool](https://github.com/bazelboost/pool) | | | | ![pool module CI status badge](https://github.com/bazelboost/pool/actions/workflows/main.yml/badge.svg) |
