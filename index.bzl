@@ -382,6 +382,11 @@ _boost_libs = {
         "urls": ["https://github.com/bazelboost/parameter/archive/c553e866aa1f74bf09be837097c097b1582fc055.zip"],
         "sha256": "52be1e59522e31f6a2af561ceabc2f9fab46dce0c2e0a19083d83f9eec5400c7",
     },
+    "pfr": {
+        "strip_prefix": "pfr-45dafa625a60355d838ea2fca965a1aaacf52199",
+        "urls" = ["https://github.com/bazelboost/pfr/archive/45dafa625a60355d838ea2fca965a1aaacf52199.zip"],
+        "sha256" = "",
+    },
     "phoenix": {
         "strip_prefix": "phoenix-5ac47802d1f67e8b155f295dd95cec7070370c4d",
         "urls": ["https://github.com/bazelboost/phoenix/archive/5ac47802d1f67e8b155f295dd95cec7070370c4d.zip"],
