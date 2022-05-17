@@ -385,7 +385,7 @@ _boost_libs = {
     "pfr": {
         "strip_prefix": "pfr-45dafa625a60355d838ea2fca965a1aaacf52199",
         "urls": ["https://github.com/bazelboost/pfr/archive/45dafa625a60355d838ea2fca965a1aaacf52199.zip"],
-        "sha256": "",
+        "sha256": "8863488990031e8300b97ce201bf5fbee8b6cc13a543746fbc0fef09a220dac9",
     },
     "phoenix": {
         "strip_prefix": "phoenix-5ac47802d1f67e8b155f295dd95cec7070370c4d",
